@@ -4,3 +4,6 @@ Subject: What I Want to Learn
 Date: 1/23/29
 
 I want to learn the basics of coding in python as well as the basic workflow of software projects. 
+
+Our final project will estimate the amount of erosion that has taken place in the Hawaiian Islands. 
+It will be a useful tool for geoligst studying the Hawaiian Islands. 
